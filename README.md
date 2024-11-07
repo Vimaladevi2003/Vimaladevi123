@@ -1,12 +1,12 @@
-# ❤️ Chetan Nada's Portfolio 🙏
-### _This is my Portfolio Project, I made it using HTML, CSS and Javascript._ [Watch Live](https://chetannada.netlify.app/)
+Vimaladevi's Portfolio 🙏
+### _This is my Portfolio Project, I made it using HTML, CSS and Javascript._ [Watch Live](https://vimladevi.netlify.app/)
 
 
 ## 🔥 Clone this Repository
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/chetannada/My-Portfolio.git"
+  git clone "https://github.com/vimaladevi/My-Portfolio.git"
 ```
 Go to the project directory
 
